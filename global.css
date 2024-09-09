@@ -1,6 +1,16 @@
-head {
+title {
+    font-family: roboto;
+    font-size: 30px;
+    color: #1E1E24;
+}
+
+body {
     background-color: #fe6847;
     font-family: Arial, sans-serif;
     font-size: 16px;
-    color: #1E1E24,
+    color: #1E1E24;
+}
+
+p {
+    color: #1E1E24;
 }
